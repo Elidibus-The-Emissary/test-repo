@@ -1,1 +1,3 @@
 Hello World, etc etc. Testing git commands.
+
+Testing making a full commit message. 
